@@ -1,7 +1,7 @@
 # Share
 It's a shared folder.
 
-The folder```code```is a folder for the author and there is some code. It is also shared.
+The folder```Code```is a folder for the author and there is some code. It is also shared.
 
 In the other hand, it is a cloud for the author.
 
