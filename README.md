@@ -18,3 +18,9 @@ Links:
 [Turing OJ](http://222.180.160.110:2019)
 
 [LeetCode](https://leetcode-cn.com)
+
+[game -- Nazo](nazo.one-story.cn)
+
+[game -- Slay.one](slay.one)
+
+[game -- Dark room](https://waitk.coding.me/)
