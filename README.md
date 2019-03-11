@@ -9,6 +9,8 @@ In the other hand, it is a cloud for the author.
 
 Links:
 
+[成长之路](https://www.luogu.org/problemnew/lists?name=&orderitem=pid&tag=83&content=0&type=)
+
 [洛谷](http://luogu.org)
 
 [Github](https://github.com)
