@@ -26,3 +26,5 @@ Links:
 [game -- Slay.one](slay.one)
 
 [game -- Dark room](https://waitk.coding.me/)
+
+[game -- Generals](http://generals.io/)
