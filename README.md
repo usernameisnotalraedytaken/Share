@@ -21,9 +21,9 @@ Links:
 
 [LeetCode](https://leetcode-cn.com)
 
-[game -- Nazo](nazo.one-story.cn)
+[game -- Nazo](http://nazo.one-story.cn)
 
-[game -- Slay.one](slay.one)
+[game -- Slay.one](http://slay.one)
 
 [game -- Dark room](https://waitk.coding.me/)
 
