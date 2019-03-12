@@ -28,3 +28,15 @@ Links:
 [game -- Dark room](https://waitk.coding.me/)
 
 [game -- Generals](http://generals.io/)
+
+[game -- Name Rena](http://namerena.github.io/#)
+
+[game -- 琼脂多人在线游戏](http://agar.io)
+
+[game -- 坦克多人在线游戏](http://diep.io)
+
+[game -- 砍人多人在线游戏](http://wilds.io)
+
+[game -- 飞机多人在线游戏](http://wings.io)
+
+[game -- 蠕虫多人在线游戏](http://slither.io)
